@@ -147,7 +147,8 @@
 - 函数节流 [7 个基本的 JS 函数](https://github.com/JChehe/blog/blob/master/translation/7%20%E4%B8%AA%E5%9F%BA%E6%9C%AC%E7%9A%84%20JS%20%E5%87%BD%E6%95%B0%5B%E8%AF%91%5D.md)
 - 红绿灯
 - [CSS 一像素解决方案](https://www.w3cplus.com/css/fix-1px-for-retina.html)
-- event loop task microtask macrotask
+- [Promise 实现](https://www.jianshu.com/p/473cd754311f)
+- event loop task microtask macrotask [Event Loop的规范和实现](https://maimai.cn/article/detail?fid=262027235)
 - [BAT及各大互联网公司2014前端笔试面试题--JavaScript篇](http://www.cnblogs.com/coco1s/archive/2014/10/16/4029708.html)
 - [编程面试的10大算法概念汇总](http://blog.jobbole.com/52144/)
 - [https://www.cnblogs.com/greatluoluo/p/5906926.html](前端面试——css篇
