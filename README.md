@@ -8,9 +8,7 @@
 - [Generator 函数的含义与用法](http://www.ruanyifeng.com/blog/2015/04/generator.html)
 
 - [理解 JavaScript 的 async/await](https://segmentfault.com/a/1190000007535316)
-- [深入理解javascript原型和闭包系列](http://www.cnblogs.com/wangfupeng1988/p/4001284.html)
 - [体验异步的终极解决方案-ES7的Async/Await](https://cnodejs.org/topic/5640b80d3a6aa72c5e0030b6)
-
 - [传统 Ajax 已死，Fetch 永生](https://segmentfault.com/a/1190000003810652)
 
 - [面向对象的JavaScript编程：原理与实践](https://github.com/haitaoxin/jsoo)
@@ -20,10 +18,17 @@
 
 - [es6-features.org](http://es6-features.org)
 - [读书笔记-你不知道的JavaScript(上)](https://segmentfault.com/a/1190000009682103)
+- [这一次，彻底弄懂 JavaScript 执行机制](https://juejin.im/post/59e85eebf265da430d571f89)
+- [深入理解javascript原型和闭包系列](http://www.cnblogs.com/wangfupeng1988/p/4001284.html)
 - [深入理解浏览器渲染原理：Repaint, Reflow](https://www.jianshu.com/p/40c6fc1d4800)
 - [Canvas 最佳实践（性能篇）](https://www.cnblogs.com/mopagunda/p/5622911.html)
 #### 前端库/框架
 ##### react
+- [react 官网](https://reactjs.org/)  
+- [官网中文版](https://doc.react-china.org/)  
+- [中文文档入门](https://doc.react-china.org/tutorial/tutorial.html) 
+- [163学习视频](http://study.163.com/course/courseMain.htm?courseId=1565012)
+ - [菜鸟教程](http://www.runoob.com/react/react-tutorial.html)
 - [react 组件生命周期](http://pinggod.com/2015/React-%E7%BB%84%E4%BB%B6%E7%9A%84%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/)
 - [React 性能优化大挑战](http://web.jobbole.com/93614/)
 - [虚拟 DOM 内部是如何工作的](http://www.zcfy.cc/article/the-inner-workings-of-virtual-dom-rajaraodv-medium-3248.html)
@@ -87,6 +92,7 @@
 - [浏览器HTTP缓存机制](https://juejin.im/post/5a673af06fb9a01c927ed880)
 - [Cookie/Session机制详解](http://blog.csdn.net/fangaoxin/article/details/6952954)
 - [浏览器HTTP缓存机制](https://juejin.im/post/5a673af06fb9a01c927ed880)
+- [http://www.alloyteam.com/2016/03/discussion-on-web-caching/?bsh_bid=1934868867](http://www.alloyteam.com/2016/03/discussion-on-web-caching/?bsh_bid=1934868867)
 - [我知道的跨域与安全](https://juejin.im/post/5a6320d56fb9a01cb64ee191)
 - [你知道一次HTTP请求响应涉及了哪些知识吗？](https://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247486671&idx=1&sn=cedbdf2abd2e77f942edf962629f2b32&comefrom=http://blogread.cn/news/)
 - [HTTP状态码->HTTP Status Code](http://www.cnblogs.com/DeasonGuan/articles/Hanami.html)
@@ -99,6 +105,10 @@
 
 
 #### hybrid
+- [Hybrid APP基础篇(一)->什么是Hybrid App](https://www.cnblogs.com/dailc/p/5930231.html)
+- [Hybrid APP基础篇(二)->Native、Hybrid、React Native、Web App方案的分析比较](http://www.cnblogs.com/dailc/p/5930238.html)
+- [Hybrid APP基础篇(三)->Hybrid APP之Native和H5页面交互原理](http://www.cnblogs.com/dailc/p/5931322.html)
+- [Hybrid APP基础篇(四)->JSBridge的原理](http://www.cnblogs.com/dailc/p/5931324.html)
 - [浅谈Hybrid技术的设计与实现](http://www.cnblogs.com/yexiaochai/p/4921635.html)
 - [浅谈Hybrid技术的设计与实现第二弹](http://www.cnblogs.com/yexiaochai/p/5524783.html)
 - [http://www.cnblogs.com/yexiaochai/p/5813248.html](http://www.cnblogs.com/yexiaochai/p/5813248.html)
@@ -112,7 +122,7 @@
 - [为什么现在又流行服务端渲染html？](https://www.zhihu.com/question/59578433)
 #### 其他工具
 - [Chrome 开发者工具使用](http://www.css88.com/doc/chrome-devtools/)
-- [GitHub&Git入门基础](https://www.nowcoder.com/courses/2)
+- [GitHub&Git入门基础](https://www.nowcoder.com/courses/2) [版本管理工具介绍—Git篇](https://www.imooc.com/learn/208)
 - [移动应用抓包调试利器Charles](https://www.jianshu.com/p/68684780c1b0)
 - [Linux达人养成计划](http://www.imooc.com/learn/175)
 - [vi编辑器的使用](http://www.jikexueyuan.com/course/676.html)
@@ -143,6 +153,8 @@
 - 图片懒加载、按需加载
 - 前端路由实现原理
 - 双向绑定实现
+- canvas与svg区别
+- [margin折叠](https://segmentfault.com/a/1190000010346113)
 - 观察者模式实现(事件模式)
 - 函数节流 [7 个基本的 JS 函数](https://github.com/JChehe/blog/blob/master/translation/7%20%E4%B8%AA%E5%9F%BA%E6%9C%AC%E7%9A%84%20JS%20%E5%87%BD%E6%95%B0%5B%E8%AF%91%5D.md)
 - 红绿灯
@@ -153,7 +165,8 @@
 - [编程面试的10大算法概念汇总](http://blog.jobbole.com/52144/)
 - [https://www.cnblogs.com/greatluoluo/p/5906926.html](前端面试——css篇
 )
-- 算法 快速排序、判断回文、寻找最长回文串、判断一个数是不是2的幂。
+- 算法 快速排序、判断回文、寻找最长回文串、判断一个数是不是2的幂
+- [全排列](https://www.cnblogs.com/zyoung/p/6764371.html)
 - [征服JavaScript面试系列：类继承和原型继承的区别](http://www.zcfy.cc/article/master-the-javascript-interview-what-s-the-difference-between-class-amp-prototypal-inheritance-2185.html)
 - [只有20行Javascript代码！手把手教你写一个页面模板引擎](https://segmentfault.com/a/1190000000394948)
 - [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
