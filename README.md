@@ -5,6 +5,7 @@
 - [30分钟掌握ES6/ES2015核心内容二](https://segmentfault.com/a/1190000004368132)
 - [深入浅出ES6](http://www.infoq.com/cn/es6-in-depth/)
 - [javascript garden](http://bonsaiden.github.io/JavaScript-Garden/zh/)
+- [es6 学习总结](http://www.cnblogs.com/huansky/tag/ES6/)
 - [Generator 函数的含义与用法](http://www.ruanyifeng.com/blog/2015/04/generator.html)
 
 - [理解 JavaScript 的 async/await](https://segmentfault.com/a/1190000007535316)
@@ -21,18 +22,20 @@
 - [这一次，彻底弄懂 JavaScript 执行机制](https://juejin.im/post/59e85eebf265da430d571f89)
 - [深入理解javascript原型和闭包系列](http://www.cnblogs.com/wangfupeng1988/p/4001284.html)
 - [深入理解浏览器渲染原理：Repaint, Reflow](https://www.jianshu.com/p/40c6fc1d4800)
+- [JavaScript 模块演化简史](https://zhuanlan.zhihu.com/p/26231889)
+- [JavaScript是如何工作的：内存管理 + 如何处理4个常见的内存泄漏](https://juejin.im/post/59ca19ca6fb9a00a42477f55)
 - [Canvas 最佳实践（性能篇）](https://www.cnblogs.com/mopagunda/p/5622911.html)
+- [采用MVC模式创建一个简单的javascript App](http://www.cnblogs.com/huansky/p/6088772.html)
 #### 前端库/框架
 ##### react
 - [react 官网](https://reactjs.org/)  
 - [官网中文版](https://doc.react-china.org/)  
-- [中文文档入门](https://doc.react-china.org/tutorial/tutorial.html) 
-- [163学习视频](http://study.163.com/course/courseMain.htm?courseId=1565012)
- - [菜鸟教程](http://www.runoob.com/react/react-tutorial.html)
+- ~~[163学习视频](http://study.163.com/course/courseMain.htm?courseId=1565012)~~
+ - ~~[菜鸟教程](http://www.runoob.com/react/react-tutorial.html)~~
 - [react 组件生命周期](http://pinggod.com/2015/React-%E7%BB%84%E4%BB%B6%E7%9A%84%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/)
 - [React 性能优化大挑战](http://web.jobbole.com/93614/)
 - [虚拟 DOM 内部是如何工作的](http://www.zcfy.cc/article/the-inner-workings-of-virtual-dom-rajaraodv-medium-3248.html)
-- [从入门到实战](https://yq.aliyun.com/video/play/753?spm=5176.8657658.744400.2.PJf0BW)
+- [IMMUTABLE 详解](https://www.cnblogs.com/3body/p/6224010.html)
 - [重新设计 React 组件库](https://zhuanlan.zhihu.com/p/24207409)
 - [从工程化角度讨论如何快速构建可靠React组件](http://www.alloyteam.com/2017/03/from-an-engineering-point-of-view-discusses-how-to-construct-reliable-components-react/)
 - [React 源码剖析系列 不可思议的 react diff](https://zhuanlan.zhihu.com/p/20346379)
@@ -40,7 +43,9 @@
 - [React 的 diff 算法](https://segmentfault.com/a/1190000000606216)
 - [react精髓之一---diff算法](https://segmentfault.com/a/1190000004913592)
 [React 源码剖析系列 － 不可思议的 react diff](https://zhuanlan.zhihu.com/purerender/20346379)
+- [React 组件解耦之道](https://segmentfault.com/a/1190000010051000)
 - [深入理解react（源码分析）](https://segmentfault.com/a/1190000007252756)
+- [React 设计中的闪光点](https://zhuanlan.zhihu.com/p/28562066)
 
 #### vue 
 - [Vue -渐进式JavaScript框架](https://juejin.im/entry/5a54b747518825734216c3df?from=singlemessage)
@@ -49,9 +54,8 @@
 - [Vue原理解析之Virtual Dom](https://joeray61.com/2017/02/08/Vue%E5%8E%9F%E7%90%86%E8%A7%A3%E6%9E%90%E4%B9%8BVirtual-Dom/)
 - [Vue原理解析之observer模块](https://joeray61.com/2017/02/16/Vue%E5%8E%9F%E7%90%86%E8%A7%A3%E6%9E%90%E4%B9%8Bobserver%E6%A8%A1%E5%9D%97/)
 ##### jQuery
-- [jQuery源码分析系列](https://www.cnblogs.com/aaronjs/p/3279314.html)
-- [完全理解jQuery源代码，在前端行业算什么水平？
-](https://www.zhihu.com/question/20521802) 问题回答中有些文章链接需要关注
+- [jQuery源码解析（架构与依赖模块）](http://www.imooc.com/learn/172)
+- [jQuery源码解析（DOM与核心模块）](http://www.imooc.com/learn/222)
 - [【深入浅出jQuery】源码浅析--整体架构](https://www.cnblogs.com/coco1s/p/5261646.html)
 - [【深入浅出jQuery】源码浅析2--奇技淫巧](http://www.cnblogs.com/coco1s/p/5303041.html)
 
@@ -67,8 +71,9 @@
 - [echart](http://echarts.baidu.com/index.html)
 
 ##### 状态管理库
-- redux
+- redux***
 - [vuex](https://vuex.vuejs.org/zh-cn/intro.html) [技术胖的vuex视频教程](http://jspang.com/2017/05/03/vuex/)
+- [Vuex 学习总结](http://www.cnblogs.com/huansky/p/6517237.html)
 - [mobx](http://cn.mobx.js.org/) 
 
 ##### express
@@ -92,31 +97,35 @@
 - [浏览器HTTP缓存机制](https://juejin.im/post/5a673af06fb9a01c927ed880)
 - [Cookie/Session机制详解](http://blog.csdn.net/fangaoxin/article/details/6952954)
 - [浏览器HTTP缓存机制](https://juejin.im/post/5a673af06fb9a01c927ed880)
-- [http://www.alloyteam.com/2016/03/discussion-on-web-caching/?bsh_bid=1934868867](http://www.alloyteam.com/2016/03/discussion-on-web-caching/?bsh_bid=1934868867)
+- [浅谈Web缓存](http://www.alloyteam.com/2016/03/discussion-on-web-caching/?bsh_bid=1934868867)
 - [我知道的跨域与安全](https://juejin.im/post/5a6320d56fb9a01cb64ee191)
 - [你知道一次HTTP请求响应涉及了哪些知识吗？](https://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247486671&idx=1&sn=cedbdf2abd2e77f942edf962629f2b32&comefrom=http://blogread.cn/news/)
 - [HTTP状态码->HTTP Status Code](http://www.cnblogs.com/DeasonGuan/articles/Hanami.html)
+- [Https的前世今生](https://juejin.im/post/5a7146fd51882573351a9d99)
 #### 前端监控 与性能优化
 - [输入url之后 流程图](https://note.youdao.com/yws/public/resource/86c29dc1bf3c456c147fb650de501371/xmlnote/83674547A8E540249EFC700A8A5B040F/1972)
 - [从无到有 <前端异常监控系统 > 落地](http://web.jobbole.com/93498/)
 - [使用HMTL5 API监控前端性能](http://www.infoq.com/cn/articles/html5-performance-api-monitoring)
 - [浏览器端JS异常监控探索与实践](https://mp.weixin.qq.com/s?__biz=MzIwNjQwMzUwMQ==&mid=2247484918&idx=1&sn=baf63fb1609b137a09dd4e12723f050c&chksm=97236734a054ee22c2cfde598048eb8ba9c9b4278f087143fc8ab78b3fc5d4305a444d15f246#rd)
 - [前端数据监控到底在监控什么？](https://juejin.im/post/5a5ba6616fb9a01ca7136a8f)
-
+#### NodeJS
+- [express](http://javascript.ruanyifeng.com/nodejs/express.html)
+- 
 
 #### hybrid
 - [Hybrid APP基础篇(一)->什么是Hybrid App](https://www.cnblogs.com/dailc/p/5930231.html)
 - [Hybrid APP基础篇(二)->Native、Hybrid、React Native、Web App方案的分析比较](http://www.cnblogs.com/dailc/p/5930238.html)
 - [Hybrid APP基础篇(三)->Hybrid APP之Native和H5页面交互原理](http://www.cnblogs.com/dailc/p/5931322.html)
-- [Hybrid APP基础篇(四)->JSBridge的原理](http://www.cnblogs.com/dailc/p/5931324.html)
+- [Hybrid APP基础篇(四)->JSBridge的原理](http://www.cnblogs.com/dailc/p/5931324.html)*
 - [浅谈Hybrid技术的设计与实现](http://www.cnblogs.com/yexiaochai/p/4921635.html)
 - [浅谈Hybrid技术的设计与实现第二弹](http://www.cnblogs.com/yexiaochai/p/5524783.html)
-- [http://www.cnblogs.com/yexiaochai/p/5813248.html](http://www.cnblogs.com/yexiaochai/p/5813248.html)
+- [浅谈Hybrid技术的设计与实现第三弹——落地篇](http://www.cnblogs.com/yexiaochai/p/5813248.html)
 ##### 数据结构和算法
 
 - [数据结构基础(北京大学)
 ](https://www.bilibili.com/video/av10047165/)
-- [算法基础(算法基础)](https://www.bilibili.com/video/av12640020/)
+- ~~[算法基础(算法基础)](https://www.bilibili.com/video/av12640020/)*~~
+- [数据结构和算法](http://www.cnblogs.com/huansky/tag/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/) 掌握线性表(队列、栈、链表)，二叉树,了解多叉树和图
 ##### 服务端渲染
 - [教你如何搭建一个超完美的服务端渲染开发环境](https://www.jianshu.com/p/0ecd727107bb)
 - [为什么现在又流行服务端渲染html？](https://www.zhihu.com/question/59578433)
@@ -124,7 +133,10 @@
 - [Chrome 开发者工具使用](http://www.css88.com/doc/chrome-devtools/)
 - [GitHub&Git入门基础](https://www.nowcoder.com/courses/2) [版本管理工具介绍—Git篇](https://www.imooc.com/learn/208)
 - [移动应用抓包调试利器Charles](https://www.jianshu.com/p/68684780c1b0)
-- [Linux达人养成计划](http://www.imooc.com/learn/175)
+- [Linux达人养成计划I](http://www.imooc.com/learn/175)
+- [Linux 达人养成计划 II](http://www.imooc.com/learn/111)
+- [Linux Guide for Developers](http://www.imooc.com/learn/181)
+- [Linux中的计划任务之Crontab**](http://www.imooc.com/learn/216)
 - [vi编辑器的使用](http://www.jikexueyuan.com/course/676.html)
 - [nginx 初始](http://www.jikexueyuan.com/course/1470.html)
 - [nginx 基本入门](https://zhuanlan.zhihu.com/p/24382606)
@@ -136,6 +148,8 @@
 - [移动前端开发之viewport的深入理解](https://www.jianshu.com/p/5f7d2c89ae7b)
 - [使用Flexible实现手淘H5页面的终端适配](https://www.w3cplus.com/mobile/lib-flexible-for-html5-layout.html)
 - [再聊移动端页面的适配](https://www.w3cplus.com/css/vw-for-layout.html)
+- [通过动图形象地为你介绍 flexbox 是如何工作的（一）(https://segmentfault.com/a/1190000008414812)
+- [40 行代码内实现一个 React.js](https://zhuanlan.zhihu.com/p/25398176)
 ##### 单元测试
 - [Node.js 单元测试：我要写测试](http://taobaofed.org/blog/2015/12/10/nodejs-unit-tests/)
 - [测试框架 Mocha 实例教程](http://www.ruanyifeng.com/blog/2015/12/a-mocha-tutorial-of-examples.html)
@@ -147,25 +161,36 @@
 ##### 面试
 - [写给前端面试者](https://www.w3cplus.com/css/write-to-front-end-developer-interview.html)
 - [各大互联网公司前端笔试面试题–HTML,CSS篇](http://blog.csdn.net/u013184759/article/details/52274061)
+- [前端 2018 届校招笔试面经【百度，阿里，腾讯，阿里文娱，携程，美团，拼多多】](http://www.cnblogs.com/huansky/p/7956908.html)
+- [前端面试那些坑之HTML篇](https://www.cnblogs.com/mehjb/p/6125892.html)
 - [前端面试题整理](https://www.jianshu.com/p/feab89b88d6b)
 - [web前端面试题整理（CSS篇）](http://www.qdfuns.com/notes/40893/3278b1dd7df4849138bf27499a3eba45.html)
+- [2017年秋季校招前端面经（百度，腾讯，网易，华为，乐视等）](http://www.cnblogs.com/huansky/p/5973655.html)
 - 轮播实现
-- 图片懒加载、按需加载
-- 前端路由实现原理
+- 图片懒加载、按需加载 [网页图片加载优化方案](https://zhuanlan.zhihu.com/p/33370207)
+- [前端路由实现原理](https://www.jianshu.com/p/5a5813648d87)
 - 双向绑定实现
 - canvas与svg区别
 - [margin折叠](https://segmentfault.com/a/1190000010346113)
 - 观察者模式实现(事件模式)
+- 实现 querystring
+
+        var str = 'foo=bar&abc=xyz&abc=123';
+        querystring.parse(str)
+        // { foo: 'bar', abc: [ 'xyz', '123' ] }
 - 函数节流 [7 个基本的 JS 函数](https://github.com/JChehe/blog/blob/master/translation/7%20%E4%B8%AA%E5%9F%BA%E6%9C%AC%E7%9A%84%20JS%20%E5%87%BD%E6%95%B0%5B%E8%AF%91%5D.md)
 - 红绿灯
 - [CSS 一像素解决方案](https://www.w3cplus.com/css/fix-1px-for-retina.html)
 - [Promise 实现](https://www.jianshu.com/p/473cd754311f)
 - event loop task microtask macrotask [Event Loop的规范和实现](https://maimai.cn/article/detail?fid=262027235)
+- [Event Loop](https://www.w3ctrain.com/2018/02/01/javascript-event-loop/)
+- [使用Vue的nextTick引发的执行顺序之争](https://juejin.im/post/5a72df6cf265da3e2c3870b9)
+- [JavaScript 异步、栈、事件循环、任务队列](https://segmentfault.com/a/1190000011198232)
 - [BAT及各大互联网公司2014前端笔试面试题--JavaScript篇](http://www.cnblogs.com/coco1s/archive/2014/10/16/4029708.html)
 - [编程面试的10大算法概念汇总](http://blog.jobbole.com/52144/)
 - [https://www.cnblogs.com/greatluoluo/p/5906926.html](前端面试——css篇
 )
-- 算法 快速排序、判断回文、寻找最长回文串、判断一个数是不是2的幂
+- 算法 [快速排序](https://zhuanlan.zhihu.com/p/25992697)、判断回文、寻找最长回文串、判断一个数是不是2的幂
 - [全排列](https://www.cnblogs.com/zyoung/p/6764371.html)
 - [征服JavaScript面试系列：类继承和原型继承的区别](http://www.zcfy.cc/article/master-the-javascript-interview-what-s-the-difference-between-class-amp-prototypal-inheritance-2185.html)
 - [只有20行Javascript代码！手把手教你写一个页面模板引擎](https://segmentfault.com/a/1190000000394948)
