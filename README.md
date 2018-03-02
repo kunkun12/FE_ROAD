@@ -203,6 +203,7 @@
 - [前端面试——css篇
 ](https://www.cnblogs.com/greatluoluo/p/5906926.html)
 - 算法 [快速排序](https://zhuanlan.zhihu.com/p/25992697)、判断回文、数组去重、寻找最长回文串、判断一个数是不是2的幂
+- [剑指offer算法题](http://blog.csdn.net/derrantcm/article/details/46736933)
 - [全排列](https://www.cnblogs.com/zyoung/p/6764371.html) [全排列](http://jsbin.com/vipacocili/edit?js,console,output)
 - [征服JavaScript面试系列：类继承和原型继承的区别](http://www.zcfy.cc/article/master-the-javascript-interview-what-s-the-difference-between-class-amp-prototypal-inheritance-2185.html)
 - [只有20行Javascript代码！手把手教你写一个页面模板引擎](https://segmentfault.com/a/1190000000394948)
