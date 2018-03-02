@@ -53,6 +53,7 @@
 - [React 组件解耦之道](https://segmentfault.com/a/1190000010051000)
 - [深入理解react（源码分析）](https://segmentfault.com/a/1190000007252756)
 - [React 设计中的闪光点](https://zhuanlan.zhihu.com/p/28562066)
+- [40 行代码内实现一个 React.js](https://zhuanlan.zhihu.com/p/25398176)
 
 #### vue 
 - [Vue -渐进式JavaScript框架](https://juejin.im/entry/5a54b747518825734216c3df?from=singlemessage)
@@ -160,7 +161,6 @@
 - [使用Flexible实现手淘H5页面的终端适配](https://www.w3cplus.com/mobile/lib-flexible-for-html5-layout.html)
 - [再聊移动端页面的适配](https://www.w3cplus.com/css/vw-for-layout.html)
 - [通过动图形象地为你介绍 flexbox 是如何工作的](https://segmentfault.com/a/1190000008414812)
-- [40 行代码内实现一个 React.js](https://zhuanlan.zhihu.com/p/25398176)
 ##### 单元测试
 - [Node.js 单元测试：我要写测试](http://taobaofed.org/blog/2015/12/10/nodejs-unit-tests/)
 - [测试框架 Mocha 实例教程](http://www.ruanyifeng.com/blog/2015/12/a-mocha-tutorial-of-examples.html)
@@ -185,7 +185,7 @@
 - [margin折叠](https://segmentfault.com/a/1190000010346113)
 - 观察者模式实现(事件模式)
 - 实现 querystring 解析
-- fastclick 原理
+- [fastclick 原理](https://www.jianshu.com/p/16d3e4f9b2a9
 
         var str = 'foo=bar&abc=xyz&abc=123';
         querystring.parse(str)
