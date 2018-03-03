@@ -185,13 +185,14 @@
 - [margin折叠](https://segmentfault.com/a/1190000010346113)
 - 观察者模式实现(事件模式)
 - 实现 querystring 解析
-- [fastclick 原理](https://www.jianshu.com/p/16d3e4f9b2a9
+- [fastclick 原理](https://www.jianshu.com/p/16d3e4f9b2a9)
 
         var str = 'foo=bar&abc=xyz&abc=123';
         querystring.parse(str)
         // { foo: 'bar', abc: [ 'xyz', '123' ] }
 - 函数节流 [7 个基本的 JS 函数](https://github.com/JChehe/blog/blob/master/translation/7%20%E4%B8%AA%E5%9F%BA%E6%9C%AC%E7%9A%84%20JS%20%E5%87%BD%E6%95%B0%5B%E8%AF%91%5D.md)
 - 红绿灯
+- [50道CSS基础面试题](https://segmentfault.com/a/1190000013325778)
 - [CSS 一像素解决方案](https://www.w3cplus.com/css/fix-1px-for-retina.html)
 - [Promise 实现](https://www.jianshu.com/p/473cd754311f)
 - event loop task microtask macrotask [Event Loop的规范和实现](https://maimai.cn/article/detail?fid=262027235)
