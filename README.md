@@ -61,6 +61,9 @@
 - [Vue 源码注释版 及 Vue 源码详细解析](https://github.com/Ma63d/vue-analysis)
 - [Vue原理解析之Virtual Dom](https://joeray61.com/2017/02/08/Vue%E5%8E%9F%E7%90%86%E8%A7%A3%E6%9E%90%E4%B9%8BVirtual-Dom/)
 - [Vue原理解析之observer模块](https://joeray61.com/2017/02/16/Vue%E5%8E%9F%E7%90%86%E8%A7%A3%E6%9E%90%E4%B9%8Bobserver%E6%A8%A1%E5%9D%97/)
+#### 小程序开发
+- [官方文档](https://mp.weixin.qq.com/debug/wxadoc/dev/)
+- [WePY | 小程序组件化开发框架](https://tencent.github.io/wepy/#/)
 ##### jQuery
 - [jQuery源码解析（架构与依赖模块）](http://www.imooc.com/learn/172)
 - [jQuery源码解析（DOM与核心模块）](http://www.imooc.com/learn/222)
