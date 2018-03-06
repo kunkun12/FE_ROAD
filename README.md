@@ -180,6 +180,7 @@
 - [前端面试题整理](https://www.jianshu.com/p/feab89b88d6b)
 - [web前端面试题整理（CSS篇）](http://www.qdfuns.com/notes/40893/3278b1dd7df4849138bf27499a3eba45.html)
 - [2017年秋季校招前端面经（百度，腾讯，网易，华为，乐视等）](http://www.cnblogs.com/huansky/p/5973655.html)
+- [2018春招前端面试: 闯关记](https://juejin.im/post/5a998991f265da237f1dbdf9)
 - 轮播实现
 - 图片懒加载、按需加载 [网页图片加载优化方案](https://zhuanlan.zhihu.com/p/33370207)
 - [前端路由实现原理](https://www.jianshu.com/p/5a5813648d87)
