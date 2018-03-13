@@ -1,5 +1,6 @@
+> 以下内容要做到理解，带下划线的 为辅助资料，有时间就看看
 #### JS基础及进阶
-- <<Javascript 高级程序设计>>至少完整读一遍
+- 《Javascript 高级程序设计》至少完整读一遍，对每一张内容尝试画出思维导图。
 - [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
 - ~~[技术胖带你玩转ES6视频教程 (共18集)](http://jspang.com/2017/06/03/es6/)~~
 - ~~[30分钟掌握ES6/ES2015核心内容一](https://segmentfault.com/a/1190000004365693)~~ 
@@ -63,6 +64,7 @@
 - [Vue原理解析之observer模块](https://joeray61.com/2017/02/16/Vue%E5%8E%9F%E7%90%86%E8%A7%A3%E6%9E%90%E4%B9%8Bobserver%E6%A8%A1%E5%9D%97/)
 #### 小程序开发
 - [官方文档](https://mp.weixin.qq.com/debug/wxadoc/dev/)
+- [mpvue 基于 Vue.js 的小程序开发框架](http://mpvue.com/)
 - [WePY | 小程序组件化开发框架](https://tencent.github.io/wepy/#/)
 ##### jQuery
 - [jQuery源码解析（架构与依赖模块）](http://www.imooc.com/learn/172)
