@@ -181,6 +181,7 @@
 - [前端面试那些坑之HTML篇](https://www.cnblogs.com/mehjb/p/6125892.html)
 - [前端面试题整理](https://www.jianshu.com/p/feab89b88d6b)
 - [web前端面试题整理（CSS篇）](http://www.qdfuns.com/notes/40893/3278b1dd7df4849138bf27499a3eba45.html)
+- [大厂前端面试考什么](https://juejin.im/post/5ab70735f265da237a4cf9b1)
 - [2017年秋季校招前端面经（百度，腾讯，网易，华为，乐视等）](http://www.cnblogs.com/huansky/p/5973655.html)
 - [2018春招前端面试: 闯关记](https://juejin.im/post/5a998991f265da237f1dbdf9)
 - 轮播实现
