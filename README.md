@@ -96,7 +96,8 @@
 - [使用 webpack3 配置多页应用](https://www.jianshu.com/p/2cc4a1078953)
 - [深度解析`create-react-app`源码](https://segmentfault.com/a/1190000012952498)
 - [React配合Webpack实现代码分割与异步加载](http://www.chardlau.com/webpack-react-code-splitting-async-loading/)
-- 
+- [前端面试之webpack篇](https://blog.csdn.net/sinat_17775997/article/details/78122999)
+- [webpack面试题有哪些](https://www.zhihu.com/question/266788138/answer/313414641)
 
 
 ##### 设计模式
@@ -216,6 +217,8 @@
 - [全排列](https://www.cnblogs.com/zyoung/p/6764371.html) [全排列](http://jsbin.com/vipacocili/edit?js,console,output)
 - [征服JavaScript面试系列：类继承和原型继承的区别](http://www.zcfy.cc/article/master-the-javascript-interview-what-s-the-difference-between-class-amp-prototypal-inheritance-2185.html)
 - [只有20行Javascript代码！手把手教你写一个页面模板引擎](https://segmentfault.com/a/1190000000394948)
+- [前端面试之webpack篇](https://blog.csdn.net/sinat_17775997/article/details/78122999)
+- [webpack面试题有哪些](https://www.zhihu.com/question/266788138/answer/313414641)
 - [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
 - 面向对象 <http://jsbin.com/valuzudoje/edit?js,console> <http://jsbin.com/mezecazonu/edit?js,console>
 
