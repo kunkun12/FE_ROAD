@@ -167,6 +167,7 @@
 - [使用Flexible实现手淘H5页面的终端适配](https://www.w3cplus.com/mobile/lib-flexible-for-html5-layout.html)
 - [再聊移动端页面的适配](https://www.w3cplus.com/css/vw-for-layout.html)
 - [通过动图形象地为你介绍 flexbox 是如何工作的](https://segmentfault.com/a/1190000008414812)
+- [【原创】移动端高清、多屏适配方案](http://www.html-js.com/article/Mobile-terminal-H5-mobile-terminal-HD-multi-screen-adaptation-scheme%203041)
 ##### 单元测试
 - [Node.js 单元测试：我要写测试](http://taobaofed.org/blog/2015/12/10/nodejs-unit-tests/)
 - [测试框架 Mocha 实例教程](http://www.ruanyifeng.com/blog/2015/12/a-mocha-tutorial-of-examples.html)
