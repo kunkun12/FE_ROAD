@@ -79,6 +79,7 @@
 - [Underscore源码解析2](https://joeray61.com/2014/06/03/Underscore%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90%EF%BC%88%E4%BA%8C%EF%BC%89/)
 - [Underscore源码解析3](https://joeray61.com/2014/06/06/Underscore%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90%EF%BC%88%E4%B8%89%EF%BC%89/)
 - [Underscore源码解析4](https://joeray61.com/2014/06/07/Underscore%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90%EF%BC%88%E5%9B%9B%EF%BC%89/)
+- [underscore-1.8.3.js 源码解读 & 系列文章](https://github.com/hanzichi/underscore-analysis)
 
 ##### 图表可视化
 - [echart](http://echarts.baidu.com/index.html)
