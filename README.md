@@ -55,6 +55,7 @@
 - [深入理解react（源码分析）](https://segmentfault.com/a/1190000007252756)
 - [React 设计中的闪光点](https://zhuanlan.zhihu.com/p/28562066)
 - [40 行代码内实现一个 React.js](https://zhuanlan.zhihu.com/p/25398176)
+- [合格的前端系列](https://www.zhihu.com/people/qiangdada520/posts)
 
 #### vue 
 - [Vue -渐进式JavaScript框架](https://juejin.im/entry/5a54b747518825734216c3df?from=singlemessage)
