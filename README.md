@@ -157,7 +157,6 @@
 - [Linux达人养成计划I](http://www.imooc.com/learn/175)
 - [Linux 达人养成计划 II](http://www.imooc.com/learn/111)
 - [Linux Guide for Developers](http://www.imooc.com/learn/181)
-- [Linux中的计划任务之Crontab**](http://www.imooc.com/learn/216)
 - [vi编辑器的使用](http://www.jikexueyuan.com/course/676.html)
 - [nginx 初始](http://www.jikexueyuan.com/course/1470.html)
 - [nginx 基本入门](https://zhuanlan.zhihu.com/p/24382606)
