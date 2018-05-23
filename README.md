@@ -65,6 +65,7 @@
 - [Vue原理解析之Virtual Dom](https://joeray61.com/2017/02/08/Vue%E5%8E%9F%E7%90%86%E8%A7%A3%E6%9E%90%E4%B9%8BVirtual-Dom/)
 - [Vue原理解析之observer模块](https://joeray61.com/2017/02/16/Vue%E5%8E%9F%E7%90%86%E8%A7%A3%E6%9E%90%E4%B9%8Bobserver%E6%A8%A1%E5%9D%97/)
 - [vue源码解析系列](https://blog.seosiwei.com/search?tagid=7)
+- [vue源码分析](https://github.com/liutao/vue2.0-source)
 #### 小程序开发
 - [官方文档](https://mp.weixin.qq.com/debug/wxadoc/dev/)
 - [mpvue 基于 Vue.js 的小程序开发框架](http://mpvue.com/)
