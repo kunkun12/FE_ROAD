@@ -55,6 +55,7 @@
 - [React 组件解耦之道](https://segmentfault.com/a/1190000010051000)
 - [深入理解react（源码分析）](https://segmentfault.com/a/1190000007252756)
 - [React 设计中的闪光点](https://zhuanlan.zhihu.com/p/28562066)
+- [React 底层揭秘](https://github.com/xitu/Under-the-hood-ReactJS)
 - [40 行代码内实现一个 React.js](https://zhuanlan.zhihu.com/p/25398176)
 
 
