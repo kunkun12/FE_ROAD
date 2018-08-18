@@ -130,6 +130,8 @@
 - [浏览器端JS异常监控探索与实践](https://mp.weixin.qq.com/s?__biz=MzIwNjQwMzUwMQ==&mid=2247484918&idx=1&sn=baf63fb1609b137a09dd4e12723f050c&chksm=97236734a054ee22c2cfde598048eb8ba9c9b4278f087143fc8ab78b3fc5d4305a444d15f246#rd)
 - [前端数据监控到底在监控什么？](https://juejin.im/post/5a5ba6616fb9a01ca7136a8f)
 #### NodeJS
+- [Node进阶](https://github.com/chyingp/nodejs-learning-guide)
+- [Node.js 知多少](http://blog.richardweitech.cn/2018/08/11/node-questions)
 - [express](http://javascript.ruanyifeng.com/nodejs/express.html)
 - [koa进阶学习](https://chenshenhai.github.io/koa2-note/)
 
