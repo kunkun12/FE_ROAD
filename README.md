@@ -134,6 +134,12 @@
 - [Node.js 知多少](http://blog.richardweitech.cn/2018/08/11/node-questions)
 - [express](http://javascript.ruanyifeng.com/nodejs/express.html)
 - [koa进阶学习](https://chenshenhai.github.io/koa2-note/)
+- [NodeJS调试指南](https://github.com/nswbmw/node-in-debugging)
+
+#### TypeScript
+- [深入理解TypeScript](https://jkchao.github.io/typescript-book-chinese/)
+#### Go
+- [GO高级语言编程](https://github.com/chai2010/advanced-go-programming-book)
 
 #### hybrid
 - [Hybrid APP基础篇(一)->什么是Hybrid App](https://www.cnblogs.com/dailc/p/5930231.html)
