@@ -32,6 +32,7 @@
 - [javascript柯利化](https://www.cnblogs.com/zztt/p/4142891.html)
 - [采用MVC模式创建一个简单的javascript App](http://www.cnblogs.com/huansky/p/6088772.html)
 - [合格的前端系列](https://www.zhihu.com/people/qiangdada520/posts)
+- [前端知识汇总](https://github.com/hyy1115/Front-end-course)
 #### 前端库/框架
 ##### react
 - [react 官网](https://reactjs.org/) [官网中文版](https://doc.react-china.org/)  
