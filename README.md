@@ -140,6 +140,7 @@
 - [深入理解TypeScript](https://jkchao.github.io/typescript-book-chinese/)
 #### Go
 - [GO高级语言编程](https://github.com/chai2010/advanced-go-programming-book)
+- [Go语言圣经中文版 ](https://github.com/golang-china/gopl-zh)
 
 #### hybrid
 - [Hybrid APP基础篇(一)->什么是Hybrid App](https://www.cnblogs.com/dailc/p/5930231.html)
