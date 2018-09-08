@@ -133,6 +133,9 @@
 - [前端数据监控到底在监控什么？](https://juejin.im/post/5a5ba6616fb9a01ca7136a8f)
 #### NodeJS
 - [Node进阶](https://github.com/chyingp/nodejs-learning-guide)
+- [Node.js调试指南](https://github.com/nswbmw/node-in-debugging)
+- 深入浅出NodeJS
+- [nodeJS 学习笔记](https://github.com/chyingp/nodejs-learning-guide)
 - [Node.js 知多少](http://blog.richardweitech.cn/2018/08/11/node-questions)
 - [express](http://javascript.ruanyifeng.com/nodejs/express.html)
 - [koa进阶学习](https://chenshenhai.github.io/koa2-note/)
