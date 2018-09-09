@@ -267,6 +267,15 @@
 - [Reactive编程（二）:代码演示](https://springcamp.cn/spring-boot/reactive-program-2/)
 - [Reactive编程（三）:一个简单的HTTP服](https://springcamp.cn/spring-boot/reactive-program-2/)
 
+##### RX.js
+- [RxJS 入门指引和初步应用](https://github.com/xufei/blog/issues/44)
+- [通俗的方式理解RxJS](https://segmentfault.com/a/1190000008464065)
+- [RxJS: 简单入门](https://segmentfault.com/a/1190000012252368)
+- [Rxjs--基础篇](https://blog.csdn.net/debbysky/article/details/79264576)
+- [RXJS详解](https://blog.csdn.net/AC_hell/article/details/68069224)
+- [构建流式应用—RxJS详解](http://www.alloyteam.com/2016/12/learn-rxjs/)
+- [异步事件管理：从Promise与async/await到RxJS](https://uinika.github.io/web/broswer/async.html)
+
 #### 系统设计
 - [系统设计入门](https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md)
 
