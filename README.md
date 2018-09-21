@@ -171,6 +171,7 @@
 - https://juejin.im/tag/Flutter
 - [SDK](https://docs.flutter.io/index.html)
 - [Flutter 跨平台移动应用开发实战](https://flutter-app-in-action.netlify.com/#/)
+- [awesome-flutter](https://github.com/Solido/awesome-flutter)
 ##### 数据结构和算法
 
 - [数据结构基础(北京大学)
