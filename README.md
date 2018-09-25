@@ -182,6 +182,8 @@
 - [编程之法](https://github.com/julycoding/The-Art-Of-Programming-By-July/blob/master/ebook/zh/Readme.md)
 - [数据结构和算法](http://www.cnblogs.com/huansky/tag/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/) 掌握线性表(队列、栈、链表)，二叉树,了解多叉树和图
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+- [LeetCode with Javascript](https://skyyen999.gitbooks.io/-leetcode-with-javascript/content/)
+- [awesome-algorithm](https://github.com/apachecn/awesome-algorithm/tree/master/docs/Leetcode_Solutions/Python)
 ##### 服务端渲染 (了解即可)
 - [教你如何搭建一个超完美的服务端渲染开发环境](https://www.jianshu.com/p/0ecd727107bb)
 - [为什么现在又流行服务端渲染html？](https://www.zhihu.com/question/59578433)
