@@ -179,6 +179,7 @@
 - [算法基础(算法基础)](https://www.bilibili.com/video/av12640020/)
 - [Leetcode 题解](https://github.com/apachecn/awesome-leetcode)
 - [剑指Offer——名企面试官精讲典型编程题](https://github.com/gatieme/CodingInterviews)
+- [七月在线算法公开课](http://www.julyedu.com/video/play/17/24)
 - [编程之法](https://github.com/julycoding/The-Art-Of-Programming-By-July/blob/master/ebook/zh/Readme.md)
 - [数据结构和算法](http://www.cnblogs.com/huansky/tag/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/) 掌握线性表(队列、栈、链表)，二叉树,了解多叉树和图
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
