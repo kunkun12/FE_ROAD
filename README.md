@@ -36,6 +36,7 @@
 - [Javascript有个Unicode的天坑](http://www.alloyteam.com/2016/12/javascript-has-a-unicode-sinkhole/)
 - [ES6走走看看—字符到底发生了什么变化](https://segmentfault.com/a/1190000016301346)
 - [Unicode与JavaScript详解](http://www.ruanyifeng.com/blog/2014/12/unicode.html)
+- [JavaScript内存泄露和CSS优化相关序列文章](https://github.com/zhansingsong/js-leakage-patterns)
 #### 前端库/框架
 ##### react
 - [react 官网](https://reactjs.org/) [官网中文版](https://doc.react-china.org/)  
@@ -73,6 +74,7 @@
 - [vue源码解析系列](https://blog.seosiwei.com/search?tagid=7)
 - [vue源码分析](https://github.com/liutao/vue2.0-source)
 - [Vue技术内幕逐行级别的 Vue 源码分析](http://hcysun.me/vue-design)
+- [Vue.js 技术揭秘](https://ustbhuangyi.github.io/vue-analysis/)
 #### 小程序开发
 - [官方文档](https://mp.weixin.qq.com/debug/wxadoc/dev/)
 - [mpvue 基于 Vue.js 的小程序开发框架](http://mpvue.com/)
