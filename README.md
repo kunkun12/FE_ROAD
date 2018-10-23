@@ -2,7 +2,6 @@
 #### JS基础及进阶
 - 《Javascript 高级程序设计》至少完整读一遍，对每一张内容尝试画出思维导图。
 - [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
-- ~~[技术胖带你玩转ES6视频教程 (共18集)](http://jspang.com/2017/06/03/es6/)~~
 - ~~[30分钟掌握ES6/ES2015核心内容一](https://segmentfault.com/a/1190000004365693)~~ 
 - ~~[30分钟掌握ES6/ES2015核心内容二](https://segmentfault.com/a/1190000004368132)~~
 - ~~[深入浅出ES6](http://www.infoq.com/cn/es6-in-depth/)~~
