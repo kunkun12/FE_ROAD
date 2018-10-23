@@ -144,7 +144,14 @@
 - [express](http://javascript.ruanyifeng.com/nodejs/express.html)
 - [koa进阶学习](https://chenshenhai.github.io/koa2-note/)
 - [NodeJS调试指南](https://github.com/nswbmw/node-in-debugging)
-
+#### WebAssembly
+- [来谈谈WebAssembly是个啥？为何说它会影响每一个Web开发者](https://blog.csdn.net/liuyan19891230/article/details/79144332)
+- [WebAssembly 系列（一）生动形象地介绍 WebAssembly](https://zhuanlan.zhihu.com/p/25800318)
+- [WebAssembly 系列（二）JavaScript Just-in-time (JIT) 工作原理](https://zhuanlan.zhihu.com/p/25669120)
+- [WebAssembly 系列（三）编译器如何生成汇编](https://zhuanlan.zhihu.com/p/25718411)
+- [WebAssembly 系列（四）WebAssembly 工作原理](https://zhuanlan.zhihu.com/p/25754084)
+- [WebAssembly 系列（五）为什么 WebAssembly 更快？](https://zhuanlan.zhihu.com/p/25773367)
+- [WebAssembly 系列（六）WebAssembly 的现在与未来](https://zhuanlan.zhihu.com/p/25799683)
 #### TypeScript
 - [深入理解TypeScript](https://jkchao.github.io/typescript-book-chinese/)
 - [TypeScript Handbook（中文版）](https://legacy.gitbook.com/book/zhongsp/typescript-handbook/details)
