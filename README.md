@@ -2,9 +2,7 @@
 #### JS基础及进阶
 - 《Javascript 高级程序设计》至少完整读一遍，对每一张内容尝试画出思维导图。
 - [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
-- ~~[30分钟掌握ES6/ES2015核心内容一](https://segmentfault.com/a/1190000004365693)~~ 
-- ~~[30分钟掌握ES6/ES2015核心内容二](https://segmentfault.com/a/1190000004368132)~~
-- ~~[深入浅出ES6](http://www.infoq.com/cn/es6-in-depth/)~~
+- [深入浅出ES6](http://www.infoq.com/cn/es6-in-depth/)
 - [javascript garden](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 - [es6 学习总结](http://www.cnblogs.com/huansky/tag/ES6/)
 - ~~[Generator 函数的含义与用法](http://www.ruanyifeng.com/blog/2015/04/generator.html)~~
@@ -36,6 +34,7 @@
 - [ES6走走看看—字符到底发生了什么变化](https://segmentfault.com/a/1190000016301346)
 - [Unicode与JavaScript详解](http://www.ruanyifeng.com/blog/2014/12/unicode.html)
 - [JavaScript内存泄露和CSS优化相关序列文章](https://github.com/zhansingsong/js-leakage-patterns)
+- [JavaScript深入系列](https://github.com/mqyqingfeng/Blog)
 #### 前端库/框架
 ##### react
 - [react 官网](https://reactjs.org/) [官网中文版](https://doc.react-china.org/)  
