@@ -128,6 +128,7 @@
 - [你知道一次HTTP请求响应涉及了哪些知识吗？](https://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247486671&idx=1&sn=cedbdf2abd2e77f942edf962629f2b32&comefrom=http://blogread.cn/news/)
 - [HTTP状态码->HTTP Status Code](http://www.cnblogs.com/DeasonGuan/articles/Hanami.html)
 - [Https的前世今生](https://juejin.im/post/5a7146fd51882573351a9d99)
+- [一篇文章带你详解 HTTP 协议（网络协议篇一）](https://www.jianshu.com/p/6e9e4156ece3) [一篇文章带你熟悉 TCP/IP 协议（网络协议篇二）](https://www.jianshu.com/p/9f3e879a4c9c)
 #### 前端监控 与性能优化
 - [输入url之后 流程图](https://note.youdao.com/yws/public/resource/86c29dc1bf3c456c147fb650de501371/xmlnote/83674547A8E540249EFC700A8A5B040F/1972)
 - [从无到有 <前端异常监控系统 > 落地](http://web.jobbole.com/93498/)
