@@ -1,6 +1,6 @@
 > 以下内容要做到理解，带下划线的 为辅助资料，有时间就看看
 #### JS基础及进阶
-- 《Javascript 高级程序设计》至少完整读一遍，对每一张内容尝试画出思维导图。
+- 《Javascript 高级程序设计》至少完整读一遍，对每一章内容尝试画出思维导图。
 - [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
 - [深入浅出ES6](http://www.infoq.com/cn/es6-in-depth/)
 - [javascript garden](http://bonsaiden.github.io/JavaScript-Garden/zh/)
