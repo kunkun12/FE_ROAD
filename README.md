@@ -1,14 +1,15 @@
-> 以下内容要做到理解，带下划线的 为辅助资料，有时间就看看
+
 #### JS基础及进阶
-- 《Javascript 高级程序设计》至少完整读一遍，对每一章内容尝试画出思维导图。
+- [《Javascript 高级程序设计》](https://github.com/shihyu/JavaScript/blob/master/books/JavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%EF%BC%88%E7%AC%AC3%E7%89%88%EF%BC%89%E3%80%91%E4%B8%AD%E6%96%87%20%E9%AB%98%E6%B8%85%20%E5%AE%8C%E6%95%B4%20%E8%AF%A6%E7%BB%86%E4%B9%A6%E7%AD%BE%E7%89%88.pdf)至少完整读一遍，第一遍至少用一个月、最好三遍，。每一遍都会有不同的收获，对每一章内容尝试画出思维导图。
+- 《你不知道的JavaScript》 系列  https://github.com/getify/You-Dont-Know-JS
 - [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
 - [深入浅出ES6](http://www.infoq.com/cn/es6-in-depth/)
 - [javascript garden](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 - [es6 学习总结](http://www.cnblogs.com/huansky/tag/ES6/)
-- ~~[Generator 函数的含义与用法](http://www.ruanyifeng.com/blog/2015/04/generator.html)~~
+- [Generator 函数的含义与用法](http://www.ruanyifeng.com/blog/2015/04/generator.html)
 
 - [理解 JavaScript 的 async/await](https://segmentfault.com/a/1190000007535316)
-- ~~[体验异步的终极解决方案-ES7的Async/Await](https://cnodejs.org/topic/5640b80d3a6aa72c5e0030b6)~~
+- [体验异步的终极解决方案-ES7的Async/Await](https://cnodejs.org/topic/5640b80d3a6aa72c5e0030b6)
 - [传统 Ajax 已死，Fetch 永生](https://segmentfault.com/a/1190000003810652)
 
 - [面向对象的JavaScript编程：原理与实践](https://github.com/haitaoxin/jsoo)
@@ -25,7 +26,7 @@
 - [Canvas 最佳实践（性能篇）](https://www.cnblogs.com/mopagunda/p/5622911.html)
 - ~~[非常有用的 48 个 JavaScript 代码片段](https://juejin.im/entry/5a791567f265da4e8e7842a2)~~
 - [JavaScript函数式编程指南](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/)
-- ~~[JavaScript函数式编程](http://insights.thoughtworkers.org/functional-javascript/)~~
+- [JavaScript函数式编程](http://insights.thoughtworkers.org/functional-javascript/)
 - [javascript柯利化](https://www.cnblogs.com/zztt/p/4142891.html)
 - [采用MVC模式创建一个简单的javascript App](http://www.cnblogs.com/huansky/p/6088772.html)
 - [合格的前端系列](https://www.zhihu.com/people/qiangdada520/posts)
@@ -36,10 +37,8 @@
 - [JavaScript内存泄露和CSS优化相关序列文章](https://github.com/zhansingsong/js-leakage-patterns)
 - [JavaScript深入系列](https://github.com/mqyqingfeng/Blog)
 #### 前端库/框架
-##### react
+##### react （react 版本更新较快，有些设计变动较大，主要是理解思想吧）
 - [react 官网](https://reactjs.org/) [官网中文版](https://doc.react-china.org/)  
-- ~~[163学习视频](http://study.163.com/course/courseMain.htm?courseId=1565012)~~
- - ~~[菜鸟教程](http://www.runoob.com/react/react-tutorial.html)~~
 - [react 组件生命周期](http://pinggod.com/2015/React-%E7%BB%84%E4%BB%B6%E7%9A%84%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/)
 - [React教程](https://www.imooc.com/article/2553)
 - [React.js 小书](http://huziketang.com/books/react/)
@@ -48,13 +47,13 @@
 - [IMMUTABLE 详解](https://www.cnblogs.com/3body/p/6224010.html)
 - [重新设计 React 组件库](https://zhuanlan.zhihu.com/p/24207409)
 - [从工程化角度讨论如何快速构建可靠React组件](http://www.alloyteam.com/2017/03/from-an-engineering-point-of-view-discusses-how-to-construct-reliable-components-react/)
-- ~~[React 源码剖析系列 不可思议的 react diff](https://zhuanlan.zhihu.com/p/20346379)~~
+- [React 源码剖析系列 不可思议的 react diff](https://zhuanlan.zhihu.com/p/20346379)
 - [虚拟DOM Diff算法解析](http://www.infoq.com/cn/articles/react-dom-diff)
 - [React 的 diff 算法](https://segmentfault.com/a/1190000000606216)
-- ~~[react精髓之一---diff算法](https://segmentfault.com/a/1190000004913592)~~
-- ~~[React 源码剖析系列 － 不可思议的 react diff](https://zhuanlan.zhihu.com/purerender/20346379)~~
+- [react精髓之一---diff算法](https://segmentfault.com/a/1190000004913592)
+- [React 源码剖析系列 － 不可思议的 react diff](https://zhuanlan.zhihu.com/purerender/20346379)
 - [react源码系列](https://zhuanlan.zhihu.com/holmeshe)
-- ~~[React 要出新 Context API 了](https://segmentfault.com/a/1190000013076221)~~
+- [React 要出新 Context API 了](https://segmentfault.com/a/1190000013076221)
 - [React 组件解耦之道](https://segmentfault.com/a/1190000010051000)
 - [深入理解react（源码分析）](https://segmentfault.com/a/1190000007252756)
 - [React源码解析](https://juejin.im/post/59cc4c4bf265da0648446ce0)
@@ -85,7 +84,7 @@
 
 ##### lodash/underscore(这两个框架功能一样实现不同)
 - [underscore中文文档](http://www.css88.com/doc/underscore/)
-- ~~[underscore英文文档](http://underscorejs.org/)~~
+- [underscore英文文档](http://underscorejs.org/)
 - [Underscore源码解析1](https://joeray61.com/2014/05/21/Underscore%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90%EF%BC%88%E4%B8%80%EF%BC%89/)
 - [Underscore源码解析2](https://joeray61.com/2014/06/03/Underscore%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90%EF%BC%88%E4%BA%8C%EF%BC%89/)
 - [Underscore源码解析3](https://joeray61.com/2014/06/06/Underscore%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90%EF%BC%88%E4%B8%89%EF%BC%89/)
