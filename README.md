@@ -156,6 +156,9 @@
 - [WebAssembly(wasm)资源精选](https://github.com/chai2010/awesome-wasm-zh)
 - [WebAssembly 后 MVP 时代的未来：卡通技能树](https://zhuanlan.zhihu.com/p/47966773)
 - [在 JavaScript 和 WebAssembly 之间调用执行速度终于快了](https://zhuanlan.zhihu.com/p/47089990)
+- [WebAssembly 系列（第一部分） - 用卡通形式介绍 WebAssembly](https://zhuanlan.zhihu.com/p/47703064)
+- [WebAssembly 系列（第二部分） - 即时编译器（JIT）速成课](https://zhuanlan.zhihu.com/p/47796706)
+- [WebAssembly 系列（第三部分） - 汇编（assembly）速成课](https://zhuanlan.zhihu.com/p/47835544)
 #### TypeScript
 - [深入理解TypeScript](https://jkchao.github.io/typescript-book-chinese/)
 - [TypeScript Handbook（中文版）](https://legacy.gitbook.com/book/zhongsp/typescript-handbook/details)
