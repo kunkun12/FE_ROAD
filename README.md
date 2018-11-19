@@ -143,6 +143,7 @@
 - [express](http://javascript.ruanyifeng.com/nodejs/express.html)
 - [koa进阶学习](https://chenshenhai.github.io/koa2-note/)
 - [NodeJS调试指南](https://github.com/nswbmw/node-in-debugging)
+- [Node.js 子进程：你需要知道的一切](https://zhuanlan.zhihu.com/p/36678971)
 #### WebAssembly
 - [来谈谈WebAssembly是个啥？为何说它会影响每一个Web开发者](https://blog.csdn.net/liuyan19891230/article/details/79144332)
 - [WebAssembly 系列（一）生动形象地介绍 WebAssembly](https://zhuanlan.zhihu.com/p/25800318)
