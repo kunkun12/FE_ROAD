@@ -154,6 +154,8 @@
 - [WebAssembly 那些事儿](https://segmentfault.com/a/1190000013480473)
 - 《C/C++面向WebAssembly编程》——Emscripten工程实践 https://3dgen.cn/cppwasm-book
 - [WebAssembly(wasm)资源精选](https://github.com/chai2010/awesome-wasm-zh)
+- [WebAssembly 后 MVP 时代的未来：卡通技能树](https://zhuanlan.zhihu.com/p/47966773)
+- [在 JavaScript 和 WebAssembly 之间调用执行速度终于快了](https://zhuanlan.zhihu.com/p/47089990)
 #### TypeScript
 - [深入理解TypeScript](https://jkchao.github.io/typescript-book-chinese/)
 - [TypeScript Handbook（中文版）](https://legacy.gitbook.com/book/zhongsp/typescript-handbook/details)
