@@ -282,6 +282,8 @@
 - [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
 - 面向对象 <http://jsbin.com/valuzudoje/edit?js,console> <http://jsbin.com/mezecazonu/edit?js,console>
 
+#### [web性能优化](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
+
 ##### 其他
 
 - [DOM 导图](http://naotu.baidu.com/file/2bb27ecd6a992599b1f94d55aeabb9fa?token=6cd6b32d8558b70a)
