@@ -282,7 +282,7 @@
 - [webpack面试题有哪些](https://www.zhihu.com/question/266788138/answer/313414641)
 - [牛客网前端面经](https://www.zhihu.com/question/266788138/answer/314450633)
 - [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
-- 面向对象 <http://jsbin.com/valuzudoje/edit?js,console> <http://jsbin.com/mezecazonu/edit?js,console>
+-  [面试题](https://juejin.im/post/5b16c0415188257d42153bac)
 
 #### [web性能优化](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
 
