@@ -285,6 +285,11 @@
 
 #### [web性能优化](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
 
+#### 正则表达式
+- [正则表达式30分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm)
+- [https://regexr.com/](https://regexr.com/)
+- [JavaScript正则进阶之路——活学妙用奇淫正则表达式](https://github.com/jawil/blog/issues/20)
+- [正则表达式-MDN](https://github.com/jawil/blog/issues/20)
 ##### 其他
 
 - [DOM 导图](http://naotu.baidu.com/file/2bb27ecd6a992599b1f94d55aeabb9fa?token=6cd6b32d8558b70a)
