@@ -330,6 +330,9 @@
 ![image](https://note.youdao.com/yws/public/resource/86c29dc1bf3c456c147fb650de501371/xmlnote/B8F530CE407547C6BF89EED4B0D83CC4/2004)
 ![image](https://note.youdao.com/yws/public/resource/86c29dc1bf3c456c147fb650de501371/xmlnote/83674547A8E540249EFC700A8A5B040F/1997?dd)
 
+浏览器缓存
+![](http://photo.weibo.com/1821556025/wbphotos/large/mid/4312081149392540/pid/6c92bd39ly1fxq4ruylmej20yg0hnjvj)
+
 - [性能优化](http://naotu.baidu.com/file/41bf3ae543164b3b5bb8bb0ed81f13c0)
 
 
