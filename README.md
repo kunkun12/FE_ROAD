@@ -135,6 +135,7 @@
 - [使用HMTL5 API监控前端性能](http://www.infoq.com/cn/articles/html5-performance-api-monitoring)
 - [浏览器端JS异常监控探索与实践](https://mp.weixin.qq.com/s?__biz=MzIwNjQwMzUwMQ==&mid=2247484918&idx=1&sn=baf63fb1609b137a09dd4e12723f050c&chksm=97236734a054ee22c2cfde598048eb8ba9c9b4278f087143fc8ab78b3fc5d4305a444d15f246#rd)
 - [前端数据监控到底在监控什么？](https://juejin.im/post/5a5ba6616fb9a01ca7136a8f)
+- [Event loop in JavaScript](http://acemood.github.io/2016/02/01/event-loop-in-javascript/)
 #### NodeJS
 - [Node进阶](https://github.com/chyingp/nodejs-learning-guide)
 - [Node.js调试指南](https://github.com/nswbmw/node-in-debugging)
@@ -145,6 +146,12 @@
 - [koa进阶学习](https://chenshenhai.github.io/koa2-note/)
 - [NodeJS调试指南](https://github.com/nswbmw/node-in-debugging)
 - [Node.js 子进程：你需要知道的一切](https://zhuanlan.zhihu.com/p/36678971)
+- [《深入理解Node.js：核心思想与源码分析》](https://yjhjstz.gitbooks.io/deep-into-node/content/)
+- [使用 Google V8 引擎开发可定制的应用程序](https://www.ibm.com/developerworks/cn/opensource/os-cn-v8engine/)
+- [不要混淆nodejs和浏览器中的event loop](https://cnodejs.org/topic/5a9108d78d6e16e56bb80882)
+- [node源码详解](https://cnodejs.org/topic/56e3bd61f5d830306e2f0fd2)
+- [Node.js挖掘](https://cnodejs.org/topic/5594ada26ba28efa30a604e2)
+- [node 源码粗读系列](https://github.com/xtx1130/blog)
 #### WebAssembly
 - [来谈谈WebAssembly是个啥？为何说它会影响每一个Web开发者](https://blog.csdn.net/liuyan19891230/article/details/79144332)
 - [WebAssembly 系列（一）生动形象地介绍 WebAssembly](https://zhuanlan.zhihu.com/p/25800318)
