@@ -190,6 +190,7 @@
 - [Flutter 跨平台移动应用开发实战](https://flutter-app-in-action.netlify.com/#/)
 - [awesome-flutter](https://github.com/Solido/awesome-flutter)
 - [flutter-community](https://medium.com/flutter-community)
+- [FLutter实战](https://book.flutterchina.club)
 ##### 数据结构和算法
 
 - [数据结构基础(北京大学)
