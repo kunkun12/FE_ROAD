@@ -171,6 +171,7 @@
 #### TypeScript
 - [深入理解TypeScript](https://jkchao.github.io/typescript-book-chinese/)
 - [TypeScript Handbook（中文版）](https://legacy.gitbook.com/book/zhongsp/typescript-handbook/details)
+- [typescript入门教程](https://ts.xcatliu.com/introduction/what-is-typescript.html)
 #### Go
 - [GO高级语言编程](https://github.com/chai2010/advanced-go-programming-book)
 - [Go语言圣经中文版 ](https://github.com/golang-china/gopl-zh)
