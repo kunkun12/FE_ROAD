@@ -38,7 +38,15 @@
 - [JavaScript内存泄露和CSS优化相关序列文章](https://github.com/zhansingsong/js-leakage-patterns)
 - [JavaScript深入系列](https://github.com/mqyqingfeng/Blog)
 - [JavaScript Timers: Everything you need to know](https://medium.freecodecamp.org/javascript-timers-everything-you-need-to-know-5f31eaa37162)
-- [深入理解 JavaScript Event Loop](https://zhuanlan.zhihu.com/p/34229323) 、[从Promise来看JavaScript中的Event Loop、Tasks和Microtasks](https://github.com/creeperyang/blog/issues/21)
+
+#### Event Loop
+- [深入理解 JavaScript Event Loop](https://zhuanlan.zhihu.com/p/34229323) 
+- [从Promise来看JavaScript中的Event Loop、Tasks和Microtasks](https://github.com/creeperyang/blog/issues/21) 
+- [从Promise来看JavaScript中的Event Loop、Tasks和Microtasks](https://github.com/creeperyang/blog/issues/21) 
+- [菲利普·罗伯茨：到底什么是Event Loop呢](https://www.youtube.com/watch?v=8aGhZQkoFbQ&t=320s) 
+- [Event loop in JavaScript](http://acemood.github.io/2016/02/01/event-loop-in-javascript/)
+- [不要混淆nodejs和浏览器中的event loop](https://cnodejs.org/topic/5a9108d78d6e16e56bb80882)
+- [Event Loop](https://www.w3ctrain.com/2018/02/01/javascript-event-loop/)
 #### 前端库/框架
 ##### react （react 版本更新较快，有些设计变动较大，主要是理解思想吧）
 - [react 官网](https://reactjs.org/) [官网中文版](https://doc.react-china.org/)  
@@ -137,7 +145,7 @@
 - [使用HMTL5 API监控前端性能](http://www.infoq.com/cn/articles/html5-performance-api-monitoring)
 - [浏览器端JS异常监控探索与实践](https://mp.weixin.qq.com/s?__biz=MzIwNjQwMzUwMQ==&mid=2247484918&idx=1&sn=baf63fb1609b137a09dd4e12723f050c&chksm=97236734a054ee22c2cfde598048eb8ba9c9b4278f087143fc8ab78b3fc5d4305a444d15f246#rd)
 - [前端数据监控到底在监控什么？](https://juejin.im/post/5a5ba6616fb9a01ca7136a8f)
-- [Event loop in JavaScript](http://acemood.github.io/2016/02/01/event-loop-in-javascript/)
+
 #### NodeJS
 - [Node进阶](https://github.com/chyingp/nodejs-learning-guide)
 - [Node.js调试指南](https://github.com/nswbmw/node-in-debugging)
@@ -150,7 +158,7 @@
 - [Node.js 子进程：你需要知道的一切](https://zhuanlan.zhihu.com/p/36678971)
 - [《深入理解Node.js：核心思想与源码分析》](https://yjhjstz.gitbooks.io/deep-into-node/content/)
 - [使用 Google V8 引擎开发可定制的应用程序](https://www.ibm.com/developerworks/cn/opensource/os-cn-v8engine/)
-- [不要混淆nodejs和浏览器中的event loop](https://cnodejs.org/topic/5a9108d78d6e16e56bb80882)
+
 - [node源码详解](https://cnodejs.org/topic/56e3bd61f5d830306e2f0fd2)
 - [Node.js挖掘](https://cnodejs.org/topic/5594ada26ba28efa30a604e2)
 - [node 源码粗读系列](https://github.com/xtx1130/blog)
@@ -277,8 +285,6 @@
 - [50道CSS基础面试题](https://segmentfault.com/a/1190000013325778)
 - [CSS 一像素解决方案](https://www.w3cplus.com/css/fix-1px-for-retina.html)
 - [Promise 实现](https://www.jianshu.com/p/473cd754311f)
-- event loop task microtask macrotask [Event Loop的规范和实现](https://maimai.cn/article/detail?fid=262027235)
-- [Event Loop](https://www.w3ctrain.com/2018/02/01/javascript-event-loop/)
 - [使用Vue的nextTick引发的执行顺序之争](https://juejin.im/post/5a72df6cf265da3e2c3870b9)
 - [JavaScript 异步、栈、事件循环、任务队列](https://segmentfault.com/a/1190000011198232)
 - [BAT及各大互联网公司2014前端笔试面试题--JavaScript篇](http://www.cnblogs.com/coco1s/archive/2014/10/16/4029708.html)
