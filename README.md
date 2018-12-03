@@ -37,6 +37,7 @@
 - [Unicode与JavaScript详解](http://www.ruanyifeng.com/blog/2014/12/unicode.html)
 - [JavaScript内存泄露和CSS优化相关序列文章](https://github.com/zhansingsong/js-leakage-patterns)
 - [JavaScript深入系列](https://github.com/mqyqingfeng/Blog)
+- [JavaScript Timers: Everything you need to know](https://medium.freecodecamp.org/javascript-timers-everything-you-need-to-know-5f31eaa37162)
 #### 前端库/框架
 ##### react （react 版本更新较快，有些设计变动较大，主要是理解思想吧）
 - [react 官网](https://reactjs.org/) [官网中文版](https://doc.react-china.org/)  
@@ -153,6 +154,7 @@
 - [Node.js挖掘](https://cnodejs.org/topic/5594ada26ba28efa30a604e2)
 - [node 源码粗读系列](https://github.com/xtx1130/blog)
 - [Node.js 流: 你需要知道的一切](https://juejin.im/post/5940a9c3128fe1006a0ab176)
+- [Node.js 子进程：你应该知道的一切](https://juejin.im/entry/595dc35b51882568d00a97ab)
 #### WebAssembly
 - [来谈谈WebAssembly是个啥？为何说它会影响每一个Web开发者](https://blog.csdn.net/liuyan19891230/article/details/79144332)
 - [WebAssembly 系列（一）生动形象地介绍 WebAssembly](https://zhuanlan.zhihu.com/p/25800318)
