@@ -38,6 +38,7 @@
 - [JavaScript内存泄露和CSS优化相关序列文章](https://github.com/zhansingsong/js-leakage-patterns)
 - [JavaScript深入系列](https://github.com/mqyqingfeng/Blog)
 - [JavaScript Timers: Everything you need to know](https://medium.freecodecamp.org/javascript-timers-everything-you-need-to-know-5f31eaa37162)
+- [深入理解 JavaScript Event Loop](https://zhuanlan.zhihu.com/p/34229323) 、[从Promise来看JavaScript中的Event Loop、Tasks和Microtasks](https://github.com/creeperyang/blog/issues/21)
 #### 前端库/框架
 ##### react （react 版本更新较快，有些设计变动较大，主要是理解思想吧）
 - [react 官网](https://reactjs.org/) [官网中文版](https://doc.react-china.org/)  
