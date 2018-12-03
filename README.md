@@ -4,7 +4,7 @@
 - [《你不知道的JavaScript》 系列](https://github.com/getify/You-Dont-Know-JS)
 - [web-fundamentals](https://developers.google.com/web/fundamentals/)
 - [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
-- [深入浅出ES6](http://www.infoq.com/cn/es6-in-depth/)
+- 深入浅出E6 [ES6 in Depth](http://www.infoq.com/cn/es6-in-depth/)
 - [javascript garden](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 - [es6 学习总结](http://www.cnblogs.com/huansky/tag/ES6/)
 - [Generator 函数的含义与用法](http://www.ruanyifeng.com/blog/2015/04/generator.html)
