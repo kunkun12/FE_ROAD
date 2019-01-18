@@ -37,6 +37,7 @@
 - [Unicode与JavaScript详解](http://www.ruanyifeng.com/blog/2014/12/unicode.html)
 - [JavaScript内存泄露和CSS优化相关序列文章](https://github.com/zhansingsong/js-leakage-patterns)
 - [JavaScript深入系列](https://github.com/mqyqingfeng/Blog)
+- [前端进阶系列](https://github.com/yygmind/blog)
 - [JavaScript Timers: Everything you need to know](https://medium.freecodecamp.org/javascript-timers-everything-you-need-to-know-5f31eaa37162)
 
 #### Event Loop
