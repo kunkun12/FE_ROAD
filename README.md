@@ -349,6 +349,7 @@
 - [性能优化](http://naotu.baidu.com/file/41bf3ae543164b3b5bb8bb0ed81f13c0)
 
 
+- [CS基础](https://github.com/kunkun12/CS-Notes)
 ####  基础书籍推荐
 - 深入理解计算机系统
 - 操作系统之哲学原理
