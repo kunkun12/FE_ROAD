@@ -1,8 +1,8 @@
 
 #### JS基础及进阶
 - [《Javascript 高级程序设计》](https://github.com/shihyu/JavaScript/blob/master/books/JavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%EF%BC%88%E7%AC%AC3%E7%89%88%EF%BC%89%E3%80%91%E4%B8%AD%E6%96%87%20%E9%AB%98%E6%B8%85%20%E5%AE%8C%E6%95%B4%20%E8%AF%A6%E7%BB%86%E4%B9%A6%E7%AD%BE%E7%89%88.pdf)至少完整读一遍，第一遍至少用一个月、最好三遍，。每一遍都会有不同的收获，对每一章内容尝试画出思维导图。
-- [《你不知道的JavaScript》 系列(英文)](https://github.com/getify/You-Dont-Know-JS) 、 [你不知道JavaScript系列 中文](https://github.com/getify/You-Dont-Know-JS/tree/1ed-zh-CN) 这个系列可以买书收藏一下
-- [web-fundamentals](https://developers.google.com/web/fundamentals/) 谷歌官方的精品文章
+- 《你不知道的JavaScript》系列 [(英文)](https://github.com/getify/You-Dont-Know-JS) 、 [中文](https://github.com/getify/You-Dont-Know-JS/tree/1ed-zh-CN) 对JS基础讲的很棒
+- [web-fundamentals](https://developers.google.com/web/fundamentals/) 谷歌官方Web相关精品文章 
 - [ECMAScript 6 入门](http://es6.ruanyifeng.com/) 阮老师的博客，入门挺好的
 - 深入浅出E6 [ES6 in Depth](http://www.infoq.com/cn/es6-in-depth/)
 - [javascript garden](http://bonsaiden.github.io/JavaScript-Garden/zh/)
