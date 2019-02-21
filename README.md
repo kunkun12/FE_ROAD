@@ -303,6 +303,7 @@
 - [牛客网前端面经](https://www.zhihu.com/question/266788138/answer/314450633)
 - [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
 -  [面试题](https://juejin.im/post/5b16c0415188257d42153bac)
+- [2018大厂高级前端面试题汇总](https://github.com/yygmind/blog/issues/5)
 
 #### [web性能优化](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
 
