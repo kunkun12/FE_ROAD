@@ -141,6 +141,8 @@
 - [Https的前世今生](https://juejin.im/post/5a7146fd51882573351a9d99)
 - [一篇文章带你详解 HTTP 协议（网络协议篇一）](https://www.jianshu.com/p/6e9e4156ece3) [一篇文章带你熟悉 TCP/IP 协议（网络协议篇二）](https://www.jianshu.com/p/9f3e879a4c9c)
 #### 前端监控 与性能优化
+- [从输入 URL 到页面加载完成的过程中都发生了什么事情？](http://fex.baidu.com/blog/2014/05/what-happen/)
+- [浏览器工作原理：从 URL 输入到页面展现到底发生了什么？](https://www.jianshu.com/p/fa65d8ca9901) 、 [浏览器的工作原理：新式网络浏览器幕后揭秘](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/) 、[What really happens when you navigate to a URL](http://igoro.com/archive/what-really-happens-when-you-navigate-to-a-url/)
 - [输入url之后 流程图](https://note.youdao.com/yws/public/resource/86c29dc1bf3c456c147fb650de501371/xmlnote/83674547A8E540249EFC700A8A5B040F/1972)
 - [从无到有 <前端异常监控系统 > 落地](http://web.jobbole.com/93498/)
 - [使用HMTL5 API监控前端性能](http://www.infoq.com/cn/articles/html5-performance-api-monitoring)
@@ -225,6 +227,8 @@
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
 - [LeetCode with Javascript](https://skyyen999.gitbooks.io/-leetcode-with-javascript/content/)
 - [awesome-algorithm](https://github.com/apachecn/awesome-algorithm/tree/master/docs/Leetcode_Solutions/Python)
+- [每日一道算法题](https://blog.csdn.net/qianhen123/column/info/algorithom/1)
+- 推荐微信公众号 算法爱好者 、五分钟学算法
 ##### 服务端渲染 (了解即可)
 - [教你如何搭建一个超完美的服务端渲染开发环境](https://www.jianshu.com/p/0ecd727107bb)
 - [为什么现在又流行服务端渲染html？](https://www.zhihu.com/question/59578433)
