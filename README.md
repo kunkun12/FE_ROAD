@@ -140,10 +140,11 @@
 - [HTTP状态码->HTTP Status Code](http://www.cnblogs.com/DeasonGuan/articles/Hanami.html)
 - [Https的前世今生](https://juejin.im/post/5a7146fd51882573351a9d99)
 - [一篇文章带你详解 HTTP 协议（网络协议篇一）](https://www.jianshu.com/p/6e9e4156ece3) [一篇文章带你熟悉 TCP/IP 协议（网络协议篇二）](https://www.jianshu.com/p/9f3e879a4c9c)
-#### 前端监控 与性能优化
+#### 前端监控 与性能优化 浏览器原理
 - [从输入 URL 到页面加载完成的过程中都发生了什么事情？](http://fex.baidu.com/blog/2014/05/what-happen/)
 - [浏览器工作原理：从 URL 输入到页面展现到底发生了什么？](https://www.jianshu.com/p/fa65d8ca9901) 、 [浏览器的工作原理：新式网络浏览器幕后揭秘](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/) 、[What really happens when you navigate to a URL](http://igoro.com/archive/what-really-happens-when-you-navigate-to-a-url/)
 - [输入url之后 流程图](https://note.youdao.com/yws/public/resource/86c29dc1bf3c456c147fb650de501371/xmlnote/83674547A8E540249EFC700A8A5B040F/1972)
+- [图解浏览器的工作原理](https://mp.weixin.qq.com/s/X4yAFZBNLwaDUFYaR0Cn5g)
 - [从无到有 <前端异常监控系统 > 落地](http://web.jobbole.com/93498/)
 - [使用HMTL5 API监控前端性能](http://www.infoq.com/cn/articles/html5-performance-api-monitoring)
 - [浏览器端JS异常监控探索与实践](https://mp.weixin.qq.com/s?__biz=MzIwNjQwMzUwMQ==&mid=2247484918&idx=1&sn=baf63fb1609b137a09dd4e12723f050c&chksm=97236734a054ee22c2cfde598048eb8ba9c9b4278f087143fc8ab78b3fc5d4305a444d15f246#rd)
