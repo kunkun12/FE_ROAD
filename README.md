@@ -320,7 +320,7 @@
 ##### 其他
 
 - [DOM 导图](http://naotu.baidu.com/file/2bb27ecd6a992599b1f94d55aeabb9fa?token=6cd6b32d8558b70a)
-- [DOM API](https://note.youdao.com/yws/public/resource/86c29dc1bf3c456c147fb650de501371/xmlnote/WEBRESOURCE0f4676d4a958eb1ff7ec396ab72b4759/1998) 
+
 - [BOM API](https://note.youdao.com/yws/public/resource/86c29dc1bf3c456c147fb650de501371/xmlnote/WEBRESOURCE8e27b8d1243f01935118d0b1b990a76e/1999)
 
 ##### Reactive 
