@@ -5,15 +5,13 @@
 - [现代 Javascript 教程](https://zh.javascript.info/)
 - [web-fundamentals](https://developers.google.com/web/fundamentals/) 谷歌官方Web相关精品文章 
 - [ECMAScript 6 入门](http://es6.ruanyifeng.com/) 阮老师的博客，入门挺好的
-- 深入浅出E6 [ES6 in Depth](http://www.infoq.com/cn/es6-in-depth/)
-- [javascript garden](http://bonsaiden.github.io/JavaScript-Garden/zh/)
+- 深入浅出E6 [ES6 in Depth](https://infoq.cn/article/ES6-in-Depth) infoQ 翻译过来的内容，对ES6各个知识点进行了详解，英文原版在这里 [ES6 In Depth Articles](https://hacks.mozilla.org/category/es6-in-depth/) 
+- [javascript garden](http://bonsaiden.github.io/JavaScript-Garden/zh/) 内容有些老了，依然是经典
 - [es6 学习总结](http://www.cnblogs.com/huansky/tag/ES6/)
 - [Generator 函数的含义与用法](http://www.ruanyifeng.com/blog/2015/04/generator.html)
-
 - [理解 JavaScript 的 async/await](https://segmentfault.com/a/1190000007535316)
 - [体验异步的终极解决方案-ES7的Async/Await](https://cnodejs.org/topic/5640b80d3a6aa72c5e0030b6)
 - [传统 Ajax 已死，Fetch 永生](https://segmentfault.com/a/1190000003810652)
-
 - [面向对象的JavaScript编程：原理与实践](https://github.com/haitaoxin/jsoo)
 - [JavaScript标准参考教程](http://javascript.ruanyifeng.com/) Ecmascript DOM BOM 基础 
 - **[前端基础进阶系列](https://yangbo5207.github.io/wutongluo/ji-chu-jin-jie-xi-lie/yi-3001-nei-cun-kong-jian-xiang-jie.html)**
@@ -27,7 +25,7 @@
 - [JavaScript是如何工作的：内存管理 + 如何处理4个常见的内存泄漏](https://juejin.im/post/59ca19ca6fb9a00a42477f55)
 - [Canvas 最佳实践（性能篇）](https://www.cnblogs.com/mopagunda/p/5622911.html)
 - ~~[非常有用的 48 个 JavaScript 代码片段](https://juejin.im/entry/5a791567f265da4e8e7842a2)~~
-- [JavaScript函数式编程指南](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/)
+- [JavaScript函数式编程指南](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/) 
 - [JavaScript函数式编程](http://insights.thoughtworkers.org/functional-javascript/)
 - [javascript柯利化](https://www.cnblogs.com/zztt/p/4142891.html)
 - [采用MVC模式创建一个简单的javascript App](http://www.cnblogs.com/huansky/p/6088772.html)
@@ -50,7 +48,7 @@
 - [不要混淆nodejs和浏览器中的event loop](https://cnodejs.org/topic/5a9108d78d6e16e56bb80882)
 - [Event Loop](https://www.w3ctrain.com/2018/02/01/javascript-event-loop/)
 #### 前端库/框架
-##### react （react 版本更新较快，有些设计变动较大，主要是理解思想吧）
+##### react （react 随着版本变更源码更新较快，有些设计变动较大，主要是理解思想吧）
 - [react 官网](https://reactjs.org/) [官网中文版](https://doc.react-china.org/)  
 - [react 组件生命周期](http://pinggod.com/2015/React-%E7%BB%84%E4%BB%B6%E7%9A%84%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/)
 - [React教程](https://www.imooc.com/article/2553)
@@ -248,7 +246,10 @@
 - [caniuse  jsperf ](http://caniuse.com/)Can I Use是一个检测浏览器对JS、HTML5、CSS、SVG或者其他Web前端相关特性支持程度的列表。可以检测的浏览器包括桌面和移动版的主流浏览器：IE, Firefox, Chrome, Safari和 Opera等
 你可以从列表中直接查看某个特性相关的浏览器支持程度，或者搜索
 - [使用Benchmark.js和jsPerf分析代码性能](https://segmentfault.com/a/1190000003486676)
+- [Wireshark](https://www.kancloud.cn/digest/wireshark/62470) wireshark 分析协议的工具，对理解基础协议有很大帮助
 ##### CSS
+
+- []
 - [移动前端开发之viewport的深入理解](https://www.jianshu.com/p/5f7d2c89ae7b)
 - [使用Flexible实现手淘H5页面的终端适配](https://www.w3cplus.com/mobile/lib-flexible-for-html5-layout.html)
 - [再聊移动端页面的适配](https://www.w3cplus.com/css/vw-for-layout.html)
