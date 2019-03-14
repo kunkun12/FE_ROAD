@@ -314,6 +314,8 @@
 - [2018大厂高级前端面试题汇总](https://github.com/yygmind/blog/issues/5)
 - [InterviewMap](https://yuchengkai.cn/docs/)
 - [前端开发中的技巧以及算法知识](https://github.com/louzhedong/blog)
+- [前端题库](http://www.bslxx.com/a/mianshiti/tiku/)
+
 #### [web性能优化](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
 
 #### 正则表达式
