@@ -38,7 +38,7 @@
 - [JavaScript深入系列](https://github.com/mqyqingfeng/Blog)
 - [前端进阶系列](https://github.com/yygmind/blog)
 - [JavaScript Timers: Everything you need to know](https://medium.freecodecamp.org/javascript-timers-everything-you-need-to-know-5f31eaa37162)
-
+- [前端博客](https://github.com/livoras/blog/issues)
 #### Event Loop
 - [深入理解 JavaScript Event Loop](https://zhuanlan.zhihu.com/p/34229323) 
 - [从Promise来看JavaScript中的Event Loop、Tasks和Microtasks](https://github.com/creeperyang/blog/issues/21) 
