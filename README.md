@@ -201,7 +201,7 @@
 - [浅谈Hybrid技术的设计与实现第三弹——落地篇](http://www.cnblogs.com/yexiaochai/p/5813248.html)
 - [Hybrid App技术解析 -- 原理篇](https://github.com/xd-tayde/blog/blob/master/hybrid-1.md)
 - [Hybrid App技术解析 -- 实战篇](https://github.com/xd-tayde/blog/blob/master/hybrid-2.md)
-
+- [【quickhybrid】如何实现一个Hybrid框架](https://www.cnblogs.com/dailc/p/8093450.html)
 #### react native 
 - [如何评价reactnative](https://www.zhihu.com/question/27852694)
 ####  Flutter
