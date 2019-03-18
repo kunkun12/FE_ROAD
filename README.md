@@ -202,6 +202,7 @@
 - [Hybrid App技术解析 -- 原理篇](https://github.com/xd-tayde/blog/blob/master/hybrid-1.md)
 - [Hybrid App技术解析 -- 实战篇](https://github.com/xd-tayde/blog/blob/master/hybrid-2.md)
 - [【quickhybrid】如何实现一个Hybrid框架](https://www.cnblogs.com/dailc/p/8093450.html)
+- [聊一聊 WebView 与 JS 交互方案 - 适用 Android & iOS](https://www.jianshu.com/p/c565c8f93abd)
 #### react native 
 - [如何评价reactnative](https://www.zhihu.com/question/27852694)
 ####  Flutter
