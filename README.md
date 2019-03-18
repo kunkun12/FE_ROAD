@@ -266,7 +266,8 @@
 - [headless浏览器 Puppeteer 初探](https://juejin.im/post/59e5a86c51882578bf185dba)
 ##### 面试
 - [写给前端面试者](https://www.w3cplus.com/css/write-to-front-end-developer-interview.html)
--  [前端面试题整理（定期更新](https://segmentfault.com/a/1190000016504891)
+- [面试必备基础知识 CS-Notes](https://github.com/kunkun12/CS-Notes)
+- [前端面试题整理（定期更新](https://segmentfault.com/a/1190000016504891)
 - [各大互联网公司前端笔试面试题–HTML,CSS篇](http://blog.csdn.net/u013184759/article/details/52274061)
 - [前端 2018 届校招笔试面经【百度，阿里，腾讯，阿里文娱，携程，美团，拼多多】](http://www.cnblogs.com/huansky/p/7956908.html)
 - [前端面试那些坑之HTML篇](https://www.cnblogs.com/mehjb/p/6125892.html)
@@ -280,7 +281,6 @@
 - 图片懒加载、按需加载 [网页图片加载优化方案](https://zhuanlan.zhihu.com/p/33370207)
 - [前端路由实现原理](https://www.jianshu.com/p/5a5813648d87)
 - 双向绑定实现
-- canvas与svg区别
 - [margin折叠](https://segmentfault.com/a/1190000010346113)
 - 观察者模式实现(事件模式)
 - 实现 querystring 解析
