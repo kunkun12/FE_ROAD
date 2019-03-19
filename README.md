@@ -58,6 +58,7 @@
 - [IMMUTABLE 详解](https://www.cnblogs.com/3body/p/6224010.html)
 - [重新设计 React 组件库](https://zhuanlan.zhihu.com/p/24207409)
 - [从工程化角度讨论如何快速构建可靠React组件](http://www.alloyteam.com/2017/03/from-an-engineering-point-of-view-discusses-how-to-construct-reliable-components-react/)
+- [小前端读源码 - React16.7.0](https://zhuanlan.zhihu.com/c_1066394183115444224)
 - [React 源码剖析系列 不可思议的 react diff](https://zhuanlan.zhihu.com/p/20346379)
 - [虚拟DOM Diff算法解析](http://www.infoq.com/cn/articles/react-dom-diff)
 - [React 的 diff 算法](https://segmentfault.com/a/1190000000606216)
