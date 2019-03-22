@@ -6,6 +6,7 @@
 - [web-fundamentals](https://developers.google.com/web/fundamentals/) 谷歌官方Web相关精品文章 
 - [ECMAScript 6 入门](http://es6.ruanyifeng.com/) 阮老师的博客，入门挺好的
 - 深入浅出E6 [ES6 in Depth](https://infoq.cn/article/ES6-in-Depth) infoQ 翻译过来的内容，对ES6各个知识点进行了详解，英文原版在这里 [ES6 In Depth Articles](https://hacks.mozilla.org/category/es6-in-depth/) 
+- [JavaScript Promise迷你书（中文版）](http://liubin.org/promises-book/) Promise是JS中非常重要的编程思想
 - [javascript garden](http://bonsaiden.github.io/JavaScript-Garden/zh/) 内容有些老了，依然是经典
 - [es6 学习总结](http://www.cnblogs.com/huansky/tag/ES6/)
 - [Generator 函数的含义与用法](http://www.ruanyifeng.com/blog/2015/04/generator.html)
