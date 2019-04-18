@@ -76,7 +76,7 @@
 - [React 设计中的闪光点](https://zhuanlan.zhihu.com/p/28562066)
 - [React 底层揭秘](https://github.com/xitu/Under-the-hood-ReactJS)
 - [40 行代码内实现一个 React.js](https://zhuanlan.zhihu.com/p/25398176)
-
+- [小前端读源码 - React16.7.0](https://zhuanlan.zhihu.com/c_1066394183115444224)
 
 #### vue 
 - [Vue -渐进式JavaScript框架](https://juejin.im/entry/5a54b747518825734216c3df?from=singlemessage)
