@@ -259,6 +259,7 @@
 你可以从列表中直接查看某个特性相关的浏览器支持程度，或者搜索
 - [使用Benchmark.js和jsPerf分析代码性能](https://segmentfault.com/a/1190000003486676)
 - [Wireshark](https://www.kancloud.cn/digest/wireshark/62470) wireshark 分析协议的工具，对理解基础协议有很大帮助
+- [Web安全学习笔记](https://websec.readthedocs.io/zh/latest/)
 ##### CSS
 
 - [移动前端开发之viewport的深入理解](https://www.jianshu.com/p/5f7d2c89ae7b)
