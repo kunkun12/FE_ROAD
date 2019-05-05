@@ -238,6 +238,8 @@
 - [记录各种学习笔记(算法、Java、数据库、并发......)](https://github.com/ZXZxin/ZXBlog)
 - [leetcode题解博客](https://buptwc.com/) 一个大神的刷题博客
 - [花花酱LeetCode](https://space.bilibili.com/9880352) LeetCode刷题视频
+- [用动画的形式呈现解LeetCode题目的思路](https://github.com/MisterBooo/LeetCodeAnimation)
+- [刷题博客](https://www.cnblogs.com/grandyang/) 博客园的刷题系列博客
 - 推荐微信公众号 算法爱好者 、五分钟学算法
 ##### 服务端渲染 (了解即可)
 - [教你如何搭建一个超完美的服务端渲染开发环境](https://www.jianshu.com/p/0ecd727107bb)
