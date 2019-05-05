@@ -223,8 +223,6 @@
 - [FLutter实战](https://book.flutterchina.club)
 ##### 数据结构和算法
 
-- [数据结构基础(北京大学)
-](https://www.bilibili.com/video/av10047165/)
 - [算法基础(算法基础)](https://www.bilibili.com/video/av12640020/)
 - [Leetcode 题解](https://github.com/apachecn/awesome-leetcode)
 - [剑指Offer——名企面试官精讲典型编程题](https://github.com/gatieme/CodingInterviews)
@@ -266,6 +264,7 @@
 - [使用Flexible实现手淘H5页面的终端适配](https://www.w3cplus.com/mobile/lib-flexible-for-html5-layout.html)
 - [再聊移动端页面的适配](https://www.w3cplus.com/css/vw-for-layout.html)
 - [通过动图形象地为你介绍 flexbox 是如何工作的](https://segmentfault.com/a/1190000008414812)
+- [CSS像素、物理像素、逻辑像素、设备像素比、PPI、Viewport #21](https://github.com/jawil/blog/issues/21)
 - [【原创】移动端高清、多屏适配方案](http://www.html-js.com/article/Mobile-terminal-H5-mobile-terminal-HD-multi-screen-adaptation-scheme%203041)
 ##### 单元测试
 - [Node.js 单元测试：我要写测试](http://taobaofed.org/blog/2015/12/10/nodejs-unit-tests/)
