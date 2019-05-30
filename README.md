@@ -43,6 +43,7 @@
 - [前端博客](https://github.com/livoras/blog/issues)
 - [前端博客，关注基础知识和性能优化。](https://github.com/creeperyang/blog)
 - [js-dev-reads](https://github.com/twhite96/js-dev-reads#node) js 开发者书单，英文的
+- [30-seconds-for-everyday](https://github.com/pushmetop/30-seconds-for-everyday)
 - [overreacted.io](https://overreacted.io/)  Dan Abramov的个人博客，对React基础的东西进行了深入的介绍 [中文翻译版](https://overreacted.io/zh-hans/)
 #### Event Loop
 - [深入理解 JavaScript Event Loop](https://zhuanlan.zhihu.com/p/34229323) 
@@ -195,6 +196,7 @@
 #### Go
 - [GO高级语言编程](https://github.com/chai2010/advanced-go-programming-book)
 - [Go语言圣经中文版 ](https://github.com/golang-china/gopl-zh)
+- [《Go语言四十二章经](https://github.com/ffhelicopter/Go42)
 - [《Go 入门指南》](https://github.com/Unknwon/the-way-to-go_ZH_CN/blob/master/eBook/01.1.md) 《The Way to Go》中文译本
 
 #### hybrid
@@ -301,7 +303,6 @@
         querystring.parse(str)
         // { foo: 'bar', abc: [ 'xyz', '123' ] }
 - 函数节流 [7 个基本的 JS 函数](https://github.com/JChehe/blog/blob/master/translation/7%20%E4%B8%AA%E5%9F%BA%E6%9C%AC%E7%9A%84%20JS%20%E5%87%BD%E6%95%B0%5B%E8%AF%91%5D.md)
-- 红绿灯
 - [50道CSS基础面试题](https://segmentfault.com/a/1190000013325778)
 - [CSS 一像素解决方案](https://www.w3cplus.com/css/fix-1px-for-retina.html)
 - [Promise 实现](https://www.jianshu.com/p/473cd754311f)
