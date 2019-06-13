@@ -57,7 +57,6 @@
 - [react 官网](https://reactjs.org/) [官网中文版](https://doc.react-china.org/)  
 - [react 组件生命周期](http://pinggod.com/2015/React-%E7%BB%84%E4%BB%B6%E7%9A%84%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/)
 - [React教程](https://www.imooc.com/article/2553)
-- [React.js 小书](http://huziketang.com/books/react/)
 - [React 性能优化大挑战](http://web.jobbole.com/93614/)
 - [虚拟 DOM 内部是如何工作的](http://www.zcfy.cc/article/the-inner-workings-of-virtual-dom-rajaraodv-medium-3248.html)
 - [IMMUTABLE 详解](https://www.cnblogs.com/3body/p/6224010.html)
@@ -70,7 +69,6 @@
 - [react精髓之一---diff算法](https://segmentfault.com/a/1190000004913592)
 - [React 源码剖析系列 － 不可思议的 react diff](https://zhuanlan.zhihu.com/purerender/20346379)
 - [react源码系列](https://zhuanlan.zhihu.com/holmeshe)
-- [React 要出新 Context API 了](https://segmentfault.com/a/1190000013076221)
 - [React 组件解耦之道](https://segmentfault.com/a/1190000010051000)
 - [深入理解react（源码分析）](https://segmentfault.com/a/1190000007252756)
 - [React源码解析](https://juejin.im/post/59cc4c4bf265da0648446ce0)
@@ -78,7 +76,7 @@
 - [React 底层揭秘](https://github.com/xitu/Under-the-hood-ReactJS)
 - [40 行代码内实现一个 React.js](https://zhuanlan.zhihu.com/p/25398176)
 - [小前端读源码 - React16.7.0](https://zhuanlan.zhihu.com/c_1066394183115444224)
-
+- [[译]深入React fiber架构及源码](https://zhuanlan.zhihu.com/p/57346388) 、[浅析React Diff 与 Fiber](https://zhuanlan.zhihu.com/p/58863799) 、 [[译]深入React fiber 链表和DFS](https://zhuanlan.zhihu.com/p/57856350)
 #### vue 
 - [Vue -渐进式JavaScript框架](https://juejin.im/entry/5a54b747518825734216c3df?from=singlemessage)
 - [读懂源码：一步一步实现一个 Vue](https://juejin.im/entry/5a3bb44d6fb9a0451a768eda?from=timeline)
@@ -132,11 +130,7 @@
 - [JavaScript设计模式](http://www.codingserf.com/index.php/2015/05/javascript-design-patterns-singleton/)
 - [常用的javascript设计模式](https://www.cnblogs.com/xianyulaodi/p/5827821.html)
 ##### HTTP
-- [软件工程师需要了解的网络知识：从铜线到HTTP（一）—— 前言](https://lvwenhan.com/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/485.html)
-- [软件工程师需要了解的网络知识：从铜线到HTTP（二）—— 以太网与交换机](https://lvwenhan.com/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/486.html)
-- [软件工程师需要了解的网络知识：从铜线到HTTP（三）—— TCP/IP](https://lvwenhan.com/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/487.html)
-- [软件工程师需要了解的网络知识：从铜线到HTTP（四）—— TCP 和路由器](https://lvwenhan.com/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/488.html)
-- [软件工程师需要了解的网络知识：从铜线到HTTP（五）—— HTTP 和 HTTPS](https://lvwenhan.com/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/489.html)
+- 《图解http》 《图解TCP/IP》 《web性能权威指南》
 - [浏览器HTTP缓存机制](https://juejin.im/post/5a673af06fb9a01c927ed880)
 - [Cookie/Session机制详解](http://blog.csdn.net/fangaoxin/article/details/6952954)
 - [浅谈Web缓存](http://www.alloyteam.com/2016/03/discussion-on-web-caching/?bsh_bid=1934868867)
