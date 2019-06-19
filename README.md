@@ -39,6 +39,7 @@
 - [JavaScript内存泄露和CSS优化相关序列文章](https://github.com/zhansingsong/js-leakage-patterns)
 - [JavaScript深入系列](https://github.com/mqyqingfeng/Blog)
 - [前端进阶系列](https://github.com/yygmind/blog)
+- [base64原理浅析](https://mp.weixin.qq.com/s/Pvq_zDKePlkW8SW4RT2xGg)
 - [JavaScript Timers: Everything you need to know](https://medium.freecodecamp.org/javascript-timers-everything-you-need-to-know-5f31eaa37162)
 - [前端博客](https://github.com/livoras/blog/issues)
 - [前端博客，关注基础知识和性能优化。](https://github.com/creeperyang/blog)
