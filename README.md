@@ -46,6 +46,7 @@
 - [js-dev-reads](https://github.com/twhite96/js-dev-reads#node) js 开发者书单，英文的
 - [30-seconds-for-everyday](https://github.com/pushmetop/30-seconds-for-everyday)
 - [overreacted.io](https://overreacted.io/)  Dan Abramov的个人博客，对React基础的东西进行了深入的介绍 [中文翻译版](https://overreacted.io/zh-hans/)
+- [前端精读周刊](https://github.com/ascoders/weekly) 文章质量比较高，作者很有思考
 #### Event Loop
 - [深入理解 JavaScript Event Loop](https://zhuanlan.zhihu.com/p/34229323) 
 - [从Promise来看JavaScript中的Event Loop、Tasks和Microtasks](https://github.com/creeperyang/blog/issues/21) 
